@@ -1,2 +1,3 @@
 requirements-source.txt
 venv/
+.env
